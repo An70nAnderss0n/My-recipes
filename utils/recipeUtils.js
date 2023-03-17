@@ -1,5 +1,6 @@
 const recipes = [
   {
+    img: '/images/spaghetti.jpg',
     id: 0,
     title: "Classic Spaghetti Bolognese 🍝",
     description:
@@ -30,6 +31,7 @@ const recipes = [
     ],
   },
   {
+    img: '/images/chicken.jpg',
     id: 1,
     title: "Roasted Chicken Thighs with Vegetables 🍗",
     description:
@@ -55,6 +57,7 @@ const recipes = [
     ],
   },
   {
+    img: '/images/chili.jpg',
     id: 2,
     title: "Vegetarian Chili 🍛",
     description:
