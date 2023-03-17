@@ -1,0 +1,48 @@
+.startWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.mainH1 {
+  display: flex;
+  justify-content: center;
+  color: white;
+  box-shadow: 100px;
+}
+
+.listWrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 10px;
+}
+
+.listItem {
+  text-decoration: none;
+  list-style-type: none;
+  text-align: center;
+  color: rgb(200, 200, 200);
+  font-size: medium;
+  transition: all 1s ease-in;
+}
+
+.listItem:hover {
+  transition: all 1s ease-in;
+  font-size: large;
+  cursor: pointer;
+}
+
+.insWrapper {
+  margin-bottom: 20px;
+}
+
+.backLink {
+  color: rgb(200, 200, 200);
+}
+
+.recipeWrapper {
+  font-size: small;
+  max-width: 500px;
+}

@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(40, 40, 40);
+  color: rgb(200, 200, 200);
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  text-decoration: none;
+  list-style-type: none;
+  font-size: small;
+  line-height: 1.2rem;
+}
