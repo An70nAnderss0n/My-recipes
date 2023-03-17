@@ -14,7 +14,7 @@ export default function Home(props) {
       </Head>
       <div className={styles.startWrapper}>
         <main>
-          <h1 className={styles.mainH1}>Recipes</h1>
+          <h1 className={styles.mainH1}>Recipes!!!!</h1>
           <div className={styles.listWrapper}>
             {props.recipes?.length &&
               props.recipes.map((r) => (
